@@ -4,9 +4,6 @@ A Flutter chat app UI clone inspired by popular messenger apps.
 This project demonstrates **responsive design, chat interface, and custom input fields**.
 
 ---
-
-## 📱 Screenshots
-
 ## 📱 Screenshots
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -25,8 +22,6 @@ This project demonstrates **responsive design, chat interface, and custom input 
 ## ⚡ Features
 
 - Responsive chat UI  
-- Custom TextField with rounded borders  
-- Floating Action Button for sending messages  
 - Dark mode & light mode support  
 - Display messages for sender & receiver  
 
@@ -45,6 +40,7 @@ This project demonstrates **responsive design, chat interface, and custom input 
 1. Clone the repository:  
 ```bash
 git clone https://github.com/sadeemkhan313/Messenger-Clone.git
+
 
 
 
