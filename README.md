@@ -7,39 +7,18 @@ This project demonstrates **responsive design, chat interface, and custom input 
 
 ## 📱 Screenshots
 
-**Home Screen**  
-![Home Screen](assets/screenshots/<img width="400" height="750" alt="Walkthrough" src="https://github.com/user-attachments/assets/895677e6-52e2-4b70-843d-ca78affeb2df" />
-)
+## 📱 Screenshots
 
-**Chat List Screen**  
-![Chat List](assets/screenshots/<img width="400" height="750" alt="number" src="https://github.com/user-attachments/assets/3b45fb9c-3219-4100-b3b7-b79d4e863fcf" />
-)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-**Chat Screen**  
-![Chat Screen](assets/screenshots/<img width="400" height="750" alt="Verification" src="https://github.com/user-attachments/assets/7892940d-e132-4049-b76b-33719dd4efec" />
-)
+<img src="https://github.com/user-attachments/assets/895677e6-52e2-4b70-843d-ca78affeb2df" width="200" />
+<img src="https://github.com/user-attachments/assets/3b45fb9c-3219-4100-b3b7-b79d4e863fcf" width="200" />
+<img src="https://github.com/user-attachments/assets/7892940d-e132-4049-b76b-33719dd4efec" width="200" />
+<img src="https://github.com/user-attachments/assets/1d1b3cf3-d9c8-4f1a-a636-3477960d310c" width="200" />
+<img src="https://github.com/user-attachments/assets/8e629f2e-43b5-4b75-a196-bf9900152c96" width="200" />
+<img src="https://github.com/user-attachments/assets/c678db7d-eda0-4994-a263-343fd50eaf4c" width="200" />
 
-**Profile Screen**  
-![Profile Screen](assets/screenshots/<img width="400" height="750" alt="ProfileAccount" src="https://github.com/user-attachments/assets/1d1b3cf3-d9c8-4f1a-a636-3477960d310c" />
-)
-
-**Settings Screen**  
-![Settings Screen](assets/screenshots/<img width="400" height="750" alt="Contacts" src="https://github.com/user-attachments/assets/8e629f2e-43b5-4b75-a196-bf9900152c96" />
-)
-
-**Dark Mode Chat Screen**  
-![Dark Mode Chat](assets/screenshots/<img width="400" height="750" alt="Chats" src="https://github.com/user-attachments/assets/c678db7d-eda0-4994-a263-343fd50eaf4c" />
-)
-
-**Dark Mode Chat Screen**  
-![Dark Mode Chat](assets/screenshots/<img width="400" height="750" alt="More" src="https://github.com/user-attachments/assets/818adc09-72ea-4461-b87c-072f38158699" />
->
-)
-
-**Dark Mode Chat Screen**  
-![Dark Mode Chat](assets/screenshots/<img width="400" height="750" alt="PersonalChat" src="https://github.com/user-attachments/assets/c4826227-411d-404f-905f-9f2fd5e5835f" />
->
-)
+</div>
 
 ---
 
@@ -66,6 +45,7 @@ This project demonstrates **responsive design, chat interface, and custom input 
 1. Clone the repository:  
 ```bash
 git clone https://github.com/sadeemkhan313/Messenger-Clone.git
+
 
 
 
