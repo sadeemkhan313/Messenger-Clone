@@ -8,7 +8,7 @@ This project demonstrates **responsive design, chat interface, and custom input 
 ## 📱 Screenshots
 
 **Home Screen**  
-![Home Screen](assets/screenshots/<img width="1500" height="3248" alt="Walkthrough" src="https://github.com/user-attachments/assets/895677e6-52e2-4b70-843d-ca78affeb2df" />
+![Home Screen](assets/screenshots/<img width="400" height="700" alt="Walkthrough" src="https://github.com/user-attachments/assets/895677e6-52e2-4b70-843d-ca78affeb2df" />
 )
 
 **Chat List Screen**  
@@ -51,5 +51,6 @@ This project demonstrates **responsive design, chat interface, and custom input 
 1. Clone the repository:  
 ```bash
 git clone https://github.com/sadeemkhan313/Messenger-Clone.git
+
 
 
